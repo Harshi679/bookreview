@@ -1,6 +1,8 @@
 import { Link } from "react-router-dom";
 import { Badge } from "./ui/badge";
 import { Suspense } from "react";
+
+import React from "react";
 const BookCard = ({ book }) => {
   const image = book.image_url.replace("/upload", "/upload/h_400");
   return (
