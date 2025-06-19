@@ -85,7 +85,6 @@ If you don't have Cloudinary, you can replace `cloudStorage` with `diskStorage` 
 #### Clone the Repository
 
 ```shell
-git clone https://github.com/NEET64/book-world.git
 cd book-world
 ```
 
@@ -119,12 +118,3 @@ Now open `localhost:5173` on your browser
 
 
 
-## Screenshots
-
-
-
-![Details3](https://github.com/NEET64/book-world/assets/67575976/3bfc1aba-9b7c-49c4-81a5-a345ea19076a)
-![User](https://github.com/NEET64/book-world/assets/67575976/b254902a-4aae-4c1f-b05b-7946487a8935)
-![Add New](https://github.com/NEET64/book-world/assets/67575976/e158ccd6-fbed-45ee-849d-1851b922e93c)
-![Login](https://github.com/NEET64/book-world/assets/67575976/54af8184-ada3-434f-8b6e-8f7c864217ed)
-![Signup](https://github.com/NEET64/book-world/assets/67575976/c12a69fe-2e26-4b5f-9407-6b9bf6e1f636)
